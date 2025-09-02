@@ -1,0 +1,20 @@
+body{
+    background-color: steelblue;
+    padding: 80px 20px;
+}
+.container{
+    max-width: 700px;
+    background-color: teal;
+    margin-bottom: 5px;
+
+}
+pre{
+    background-color:#f0f0f0 ;
+    padding: 1rem;
+    border-radius: 6px;
+}
+.embebido{
+    background-color: #97ddff;
+    color: black;
+    
+}
